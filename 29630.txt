@@ -1,0 +1,15 @@
+﻿"Symbol";"Value";"Unit";
+"REFERENCE";"Raspberry Pi Type B";"";
+"TraceParts.PartVersion";"1.0.5";"";
+"SUPPLIER";"Raspberry PI";"";
+"TraceParts.PartStatus";"Published";"";
+"RS_STOCK_NUMBER";"7568308";"";
+"REVISION";"A";"";
+"DESIGN";"Raspberry PI Type B";"";
+"TraceParts.InstanceId";"10-05022013-1149167EXC8PT9IXYC1GCQSHLGGN5U8";"";
+"TraceParts.PartTitle";"Raspberry PI Type B";"";
+"TraceParts.PartLanguage";"en";"";
+"TIMESTAMP";"04/02/2013 16:49";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartNumber";"10-05022013-114916";"";
+"TraceParts.ClassPath";"RS_COMPONENTS:/F_RS_COMPONENTS/10-05022013-114916";"";
